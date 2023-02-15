@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T21:00:33.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="fG5Qo5e7Ne7C6KQjs8SR" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-15T21:03:58.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="K098Tp4j2Fh80NCStxYb" version="20.8.20" type="github" pages="3">
   <diagram name="Page-1" id="vc52-Tv7B0g-k8zkmF-N">
     <mxGraphModel dx="2716" dy="2110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,6 +415,29 @@
         <mxCell id="p3FNMZhbxz9LPQY1w2fM-173" value="&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=none;" vertex="1" connectable="0" parent="p3FNMZhbxz9LPQY1w2fM-172">
           <mxGeometry x="-0.6514" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3FNMZhbxz9LPQY1w2fM-174" value="ena_remaind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="908" y="208" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3FNMZhbxz9LPQY1w2fM-176" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=classic;lucidId=_938VgW3mZFK;endFill=1;exitX=1;exitY=0.838;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p3FNMZhbxz9LPQY1w2fM-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="866" y="129" />
+              <mxPoint x="866" y="220" />
+            </Array>
+            <mxPoint x="160" y="129.0044444444443" as="sourcePoint" />
+            <mxPoint x="919" y="220.01052631578955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3FNMZhbxz9LPQY1w2fM-177" value="s_ena_quot" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=none;" vertex="1" connectable="0" parent="p3FNMZhbxz9LPQY1w2fM-176">
+          <mxGeometry x="-0.6514" y="2" relative="1" as="geometry">
+            <mxPoint x="3" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3FNMZhbxz9LPQY1w2fM-179" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ena_remaind" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;labelBackgroundColor=none;" vertex="1" connectable="0" parent="p3FNMZhbxz9LPQY1w2fM-176">
+          <mxGeometry x="-0.9694" y="-1" relative="1" as="geometry">
+            <mxPoint x="-60" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
